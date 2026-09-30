@@ -1,0 +1,4 @@
+# build output
+lnInclude/
+Make/linux64*/
+myDPMTurbulenceModels/Make/linux64*/
